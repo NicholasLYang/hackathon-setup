@@ -3,7 +3,7 @@ A script for setting up my hackathon stack (Rails API + React/Redux app)
 
 Pretty simple, basically does the following:
 - Creates an S3 bucket for the client
-- Sets up my buddy's [React/Redux generator](https://github.com/rob2d/generator-react-redux-gulp)
+- Sets up my buddy, [rob2d's](https://github.com/rob2d) [React/Redux generator](https://github.com/rob2d/generator-react-redux-gulp)
 - Sets up the repo
 - Builds the React app
 - Deploys it to S3
